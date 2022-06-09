@@ -26,7 +26,7 @@ Team
 
 [**Erik Thiessenhusen**](mailto:e.thiessenhusen@hzdr.de) is working on data-driven methods for fast and reliable reconstruction of Xray diffraction data acquired at e.g. our [HIBEF](https://www.hzdr.de/db/Cms?pOid=50566&pNid=694) beamline at [EuropeanXFEL](https://www.xfel.eu) within the scope of his PhD project at HZDR.
 
-[**Maksim Zhdanov**](mailto:m.zhdanov@hzdr.de) is working at the intersection of Bayesian Computation, probabilistic modeling and ML-based surrogate modeling for uncertainty quantification & reliable analysis of GI-SAXS data of e.g. [EuropeanXFEL](https://www.xfel.eu).
+[**Maksim Zhdanov**](https://maxxxzdn.github.io) is working at the intersection of Bayesian Computation, probabilistic modeling and ML-based surrogate modeling for uncertainty quantification & reliable analysis of GI-SAXS data of e.g. [EuropeanXFEL](https://www.xfel.eu).
 
 [**Patrick Stiller**](mailto:p.stiller@hzdr.de) maintains our [Neural Solvers](https://github.com/Photon-AI-Research/NeuralSolvers) library. He is currently advancing Physics-informed Neural Networks for simulation of Maxwell-Vlasov systems that are describing various flavour of Laser-driven Particle Accelerators in his PhD project.
 
