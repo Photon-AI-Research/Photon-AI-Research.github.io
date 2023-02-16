@@ -20,7 +20,17 @@ The general idea is that a conditional Normalising Flow is learning a mapping fr
 - 2d Ptychography
 - 2d Holography / Phase Contrast Imaging
 
-# Team
-* Nico Hoffmann
+## Team
+* Ritz-Ann Aguilar
 * Erik Thiessenhusen
 * Maksim Zhdanov
+* Nicolas Schmitt
+
+## Publications
+- Achilles, S., Ehrig, S., Hoffmann, N., Kahnt, M., Becher, J., Fam, Y., Sheppard, T., Brückner, D., Schropp, A., Schroer, C. (2022). GPU-accelerated coupled ptychographic tomography. Proc. SPIE 12242, Developments in X-Ray Tomography XIV, 122420N. [paper](https://doi.org/10.1117/12.2633102)
+
+- Zhdanov, M., Randolph, L., Kluge, T., Nakatsutsumi, M., Gutt, C., Ganeva, M., Hoffmann, N. (2022). Amortized Bayesian Inference of GISAXS Data with Normalizing Flows. Machine Learning and the Physical Sciences workshop @ NeurIPS 2022. [paper](https://arxiv.org/abs/2210.01543)
+
+- Liu, Y., Shao, Z., Teng, Y., Hoffmann N. (2021). NAM: Normalization-based Attention Module. ImageNet PPF @ NeurIPS 2021. [paper](https://arxiv.org/abs/2111.12419)
+
+- Liu, Y., Shao, Z., Hoffmann, N. (2021). Global Attention Mechanism: Retain Information to Enhance Channel-Spatial Interactions. arXiv:2112.05561v1. [paper](https://arxiv.org/abs/2112.05561)

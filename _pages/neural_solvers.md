@@ -13,24 +13,21 @@ Neural Solvers are neural network based solver for partial differential equation
 Our library [Neural Solvers](https://github.com/Photon-AI-Research/NeuralSolvers) implements the physics-informed neural network approach on scale. Physics informed neural networks allow strong scaling by design. Therefore, we have developed a framework that uses data parallelism to accelerate the training of 
 physics informed neural networks significantly. To implement data parallelism, we use the <a href="https://github.com/horovod/horovod">Horovod</a> framework, which provides near-ideal speedup on multi-GPU regimes.
 
-The framework currently implements a variety of recent models in natural sciences such as
-* 1d, Maxwell's equation
+The framework currently implements a variety of recent models for forward and inverse problems in natural sciences such as
+* 1d Maxwell's equation
 * 1d, 2d Schrödinger's equation
 * 1d, 2d Heat equation
-* 3d Wave equation
+* 1d, 3d Wave equation
 
-## Implemented Approaches:
+## Team
+- Jeyhun Rustamov
+- Maksim Zhdanov
+- Karan Shah (external, CASUS)
 
-- P. Stiller, F. Bethke, M. Böhme, R. Pausch, S. Torge, A. Debus, J. Vorberger, M.Bussmann, N. Hoffmann: 
-Large-scale Neural Solvers for Partial Differential Equations (2020).
 
-- Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis.
-Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations.(2017).
+## Publications
+- Stiller P., Makdani V., Pöschel F. , Richard P., Debus A., Bussmann M., Hoffmann N. (2022). Continual learning autoencoder training for a particle-in-cell simulation via streaming. Machine Learning and the Physical Sciences workshop @ NeurIPS 2022. [paper](https://arxiv.org/pdf/2211.04770)
 
-- Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. 
-Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations.(2017).
+- Shah K., Stiller P., Hoffmann N., Cangi A. (2022) Physics-Informed Neural Networks as Solvers for the Time-Dependent Schrödinger Equation. Machine Learning and the Physical Sciences @ NeurIPS 2022. [paper](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_142.pdf)
 
-- Suryanarayana Maddu, Dominik Sturm, Christian L. Müller and Ivo F. Sbalzarini (2021):
-Inverse Dirichlet Weighting Enables Reliable Training of Physics Informed Neural Networks
-
-- Sifan Wang, Yujun Teng, Paris Perdikaris (2020) Understanding and mitigating gradient pathologies in physics-informed neural networks
+- Stiller, P., Bethke, F., Böhme, M., Pausch, R., Torge, S., Debus, A., Hoffmann, N. (2020). Large-scale Neural Solvers for Partial Differential Equations. SMC 2020: Driving Scientific and Engineering Discoveries Through the Convergence of HPC, Big Data and AI, CCIS. 1315, 20-34. [paper](https://doi.org/10.1007/978-3-030-63393-6)
