@@ -11,7 +11,17 @@ We are currently developing a one-step reconstruction method for inverting SAXS 
 
 The library **nfPhasing** expands the data loss by a physics-driven loss that integrates knowledge about the underlying scattering processes.
 
-![nfPhasing workflow](../images/nfphasing_sketch.png)
+
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=dslwFktsnmM&t=2s"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
 
 The general idea is that a conditional Normalising Flow is learning a mapping from experimentally acquired diffraction pattern(s) **I** and some prior distribution to the predictive posterior distribution of electron densities **u**. The neural network is trained by a data-driven objective as well as a Physics-based loss. The former allows for very fast inference (i.e. reconstruction) on data similiar to our training data while the latter enables reconstruction of objects that are out-of-distribution to the training data.
 
