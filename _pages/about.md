@@ -20,16 +20,35 @@ We therefore research recent surrogate modelling techniques such as Physics-info
 
 Team
 ======
-[**Nico Hoffmann**](mailto:n.hoffmann@hzdr.de) is heading our [Helmholtz AI](http://helmholtz.ai/) young investigator's group *AI for Future Photon Sciences*. His research interest are physics-guided techniques for solving inverse imaging problems by generative models as well as the application of Reinforcement Learning to planning and control problems.
+[**Dr. Ritz-Ann Aguilar**]() is researching generative models for inversion of
+Proton-Beam diagnostics at [HZDR](http://hzdr.de/fwk) as well as X-ray
+diffraction patterns (e.g. Holography, SAXS) acquired at
+[EuropeanXFEL](https://www.xfel.eu) together with experimentalists,
+computational physicists and data scientists within the [Smart
+Phase](https://helmholtz-imaging.de/project/smartphase/) and [VIPR]() projects.
 
-[**Ritz-Ann Aguilar**](mailto:a.willmann@hzdr.de) is researching generative models for inversion of Proton-Beam diagnostics at [HZDR](http://hzdr.de/fwk) as well as X-ray diffraction patterns (e.g. Holography, SAXS) acquired at [EuropeanXFEL](https://www.xfel.eu) together with experimentalists, computational physicists and data scientists.
+[**Jeyhun Rustamov**]() is leading our development of INN architectures within
+the [VIPR]() project.
 
+[**Tobias Haenel**]() is working in Bayesian optimization optimzation of Laser
+parameters for laser-plasma acceleration experiments.
 
-[**Erik Thiessenhusen**](mailto:e.thiessenhusen@hzdr.de) is working on data-driven methods for fast and reliable reconstruction of Xray diffraction data acquired at e.g. our [HIBEF](https://www.hzdr.de/db/Cms?pOid=50566&pNid=694) beamline at [EuropeanXFEL](https://www.xfel.eu) within the scope of his PhD project at HZDR.
+Adjunct Members
+----
 
-[**Maksim Zhdanov**](https://maxxxzdn.github.io) is working at the intersection of Bayesian Computation, probabilistic modeling and ML-based surrogate modeling for uncertainty quantification & reliable analysis of GI-SAXS data of e.g. [EuropeanXFEL](https://www.xfel.eu).
+[**Dr. Ankush Checkervarty**]() is heading our efforts to develop
+virtual beam diagnostics, within the [ROCK-IT](https://www.rock-it-project.de/)
+project, to improve understanding and control of non-linear
+components in particle beam lines.
 
-[**Anna Willmann**](mailto:a.willmann@hzdr.de) is a PhD student in the YIG. She is researching generative models for developing a data-driven digital twin of the Free-Electron Laser beamline COXINELL at [ELBE center](https://www.hzdr.de/db/Cms?pNid=2806). 
+Former Members
+----
 
-[**Jeyhun Rustamov**](mailto:j.rustamov@hzdr.de) maintains our [Neural Solvers](https://github.com/Photon-AI-Research/NeuralSolvers) library. He is currently developing code for in-memory training of neural operators via continual learning.
+[**Erik Thiessenhusen**](mailto:e.thiessenhusen@hzdr.de)
 
+[**Anna Willmann**](mailto:a.willmann@hzdr.de)
+
+[**Nico Hoffmann**](mailto:n.hoffmann@hzdr.de) was heading our [Helmholtz AI](http://helmholtz.ai/) young investigator's group *AI for Future Photon
+Sciences* until 2023.
+
+[**Maksim Zhdanov**](https://maxxxzdn.github.io)
