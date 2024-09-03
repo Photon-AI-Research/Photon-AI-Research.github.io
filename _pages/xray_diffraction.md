@@ -24,10 +24,8 @@ The general idea is that a conditional Normalising Flow is learning a mapping fr
 
 ## Team
 * Ritz-Ann Aguilar
+* Jeyhun Rustamov
 * Kristin Tippey
-* Erik Thiessenhusen
-* Maksim Zhdanov
-* Nicolas Schmitt
 
 ## Publications
 - Achilles, S., Ehrig, S., Hoffmann, N., Kahnt, M., Becher, J., Fam, Y., Sheppard, T., Brückner, D., Schropp, A., Schroer, C. (2022). GPU-accelerated coupled ptychographic tomography. Proc. SPIE 12242, Developments in X-Ray Tomography XIV, 122420N. [paper](https://doi.org/10.1117/12.2633102)

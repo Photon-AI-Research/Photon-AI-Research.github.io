@@ -25,10 +25,10 @@ terms of phase space particle distribution based on its initial parameters: dive
 elaborated model that could use obtained diagnostics for reconstruction of beam at any point in the FEL.
 
 ## Team
-- Anna Willmann
-- Tobias Hänel (designated)
-- Yunfan Zhang
-- Gopal Kulkarni
+- Ankush Checkervarty
+- Tobias Hänel
+- TBA
+- TBA
 
 ## Publications
 - Miethlinger, M., Hoffmann, N., Kluge, T. (2022). Acceptance Rates of Invertible Neural Networks on Electron Spectra from Near-Critical Laser-Plasmas: A Comparison. Applications of Machine Learning and Artificial Intelligence in High Performance Computing @ 14th PPAM. [paper](https://arxiv.org/abs/2212.05836)
