@@ -10,7 +10,7 @@ redirect_from:
 
 We are continuously looking for students who want to do their **student
 project** or **thesis about surrogate modeling & inverse imaging problems** in
-our lab. Please message [Nico](mailto:j.kelling@hzdr.de) for details!
+our lab. Please message [Jeffrey](mailto:j.kelling@hzdr.de) for details!
 
 You are looking for a **ML engineer** or **PostDoc position** 📚🧪 on inverse
 (imaging) problems, surrogate models or digital twins at HZDR? Feel free to get
