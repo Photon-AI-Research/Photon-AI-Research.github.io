@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nico Hoffmann"
-  avatar           : "nico-h.jpg"
+  name             : "Jeffrey Kelling"
+  avatar           : "jeffrey-k.jpg"
   bio              : "Group leader"
   location         : "Dresden, Germany"
   employer         : "HZDR, Helmholtz AI"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=8iDQeTwAAAAJ"
-  email            : "n.hoffmann@hzdr.de"
+  googlescholar    : "https://scholar.google.de/citations?user=MkevA2gAAAAJ"
+  email            : "j.kelling@hzdr.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
