@@ -26,9 +26,8 @@ elaborated model that could use obtained diagnostics for reconstruction of beam 
 
 ## Team
 - Ankush Checkervarty
-- Tobias Hänel
-- TBA
-- TBA
+- Vedhas Sadanand Pandit
+- Fong-Lin Wu
 
 ## Publications
 - Miethlinger, M., Hoffmann, N., Kluge, T. (2022). Acceptance Rates of Invertible Neural Networks on Electron Spectra from Near-Critical Laser-Plasmas: A Comparison. Applications of Machine Learning and Artificial Intelligence in High Performance Computing @ 14th PPAM. [paper](https://arxiv.org/abs/2212.05836)
