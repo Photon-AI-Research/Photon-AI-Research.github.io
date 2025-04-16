@@ -21,7 +21,6 @@ The framework currently implements a variety of recent models for forward and in
 
 ## Team
 - Jeyhun Rustamov
-- Maksim Zhdanov
 - Karan Shah (external, CASUS)
 
 
