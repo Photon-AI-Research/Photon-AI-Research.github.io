@@ -21,17 +21,25 @@ We therefore research recent surrogate modelling techniques such as Physics-info
 Team
 ======
 [**Dr. Ritz-Ann Aguilar**]() is researching generative models for inversion of
-Proton-Beam diagnostics at [HZDR](http://hzdr.de/fwk) as well as X-ray
+Electron and Proton-Beam diagnostics at [HZDR](http://hzdr.de/fwk) as well as X-ray
 diffraction patterns (e.g. Holography, SAXS) acquired at
 [EuropeanXFEL](https://www.xfel.eu) together with experimentalists,
 computational physicists and data scientists within the [Smart
-Phase](https://helmholtz-imaging.de/project/smartphase/) and [VIPR]() projects.
+Phase](https://helmholtz-imaging.de/project/smartphase/) and [VIPR](https://vipr-project.de/) projects.
+
+[**Dr. Vedhas Sadanand Pandit**]() is investigating representation-learning approaches for both detector and simulation data to provide
+foundation models for more effective training of models for down-stream tasks which solve inverse problems at laser-particle accelerator experiments
+and drive parameter-space exploration in simulations thorugh surrogate models.
 
 [**Jeyhun Rustamov**]() is leading our development of INN architectures within
-the [VIPR]() project.
+the [VIPR](https://vipr-project.de/) project.
 
-[**Tobias Haenel**]() is working in Bayesian optimization optimzation of Laser
-parameters for laser-plasma acceleration experiments.
+[**Fong-Lin Wu**]() is researching methods for fast reconstruction partcile bunch shapes resulting from laser-plasma acccelerators
+with an emphasis on integrating information from multiple measuremnt modalities and quatification of remaining uncertainties .
+
+[**Jiaying Wang**]() is developing methods to shape and stabilize high-power laser pulses within the [THRILL](https://www.thrill-project.eu/) project
+to improve the reproducibility of future experiments with laser-plasma acceleration and in high-energy physics.
+This involves predicting and correcting laser states using surogate models and reinforcment learning to finely tune non-linear processes to control beam phase and shape.
 
 Adjunct Members
 ----
@@ -44,11 +52,13 @@ components in particle beam lines.
 Former Members
 ----
 
-[**Erik Thiessenhusen**](mailto:e.thiessenhusen@hzdr.de)
+[**Tobias Haenel**]()
 
-[**Anna Willmann**](mailto:a.willmann@hzdr.de)
+[**Erik Thiessenhusen**]()
 
-[**Nico Hoffmann**](mailto:n.hoffmann@hzdr.de) was heading our [Helmholtz AI](http://helmholtz.ai/) young investigator's group *AI for Future Photon
+[**Anna Willmann**]()
+
+[**Nico Hoffmann**]() was heading our [Helmholtz AI](http://helmholtz.ai/) young investigator's group *AI for Future Photon
 Sciences* until 2023.
 
 [**Maksim Zhdanov**](https://maxxxzdn.github.io)
